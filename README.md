@@ -4,10 +4,10 @@ Student Grade Management Application in Excel, featuring modular programming, da
 ## Key Objectives
 
 - **Data Import:** Efficiently imports data from a specified database, allowing users to flexibly choose files through a FileOpen Dialog.
-- **Excel Charts:** Generates insightful visualizations, such as histograms of student final grades and tables displaying assignment and lab statistics.
-- ![image](https://github.com/tVitta/Student-Grade-Management-Application/assets/143434462/8dc3c521-c250-4869-bbd4-46ea6c0ffc98)
-- **Word Reports:** Dynamically creates detailed Word reports, including explanatory text and comprehensive Excel charts.
-- ![image](https://github.com/tVitta/Student-Grade-Management-Application/assets/143434462/0a419001-b6b0-49bc-8785-b67f3181d00b)
+- **Excel Charts:** Generates insightful visualizations, such as histograms of student final grades and tables displaying assignment and lab statistics:
+ ![image](https://github.com/tVitta/Student-Grade-Management-Application/assets/143434462/8dc3c521-c250-4869-bbd4-46ea6c0ffc98)
+- **Word Reports:** Dynamically creates Word reports, including explanatory text and comprehensive Excel charts:
+ ![image](https://github.com/tVitta/Student-Grade-Management-Application/assets/143434462/0a419001-b6b0-49bc-8785-b67f3181d00b)
 
 
 ## Application Features
