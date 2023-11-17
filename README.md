@@ -1,10 +1,6 @@
 # Student-Grade-Management-Application
 Student Grade Management Application in Excel, featuring modular programming, database interaction, and user-friendly design with custom forms for data import, Excel chart generation, and Word report creation.
 
-# Student Grade Management Application
-
-I recently completed a comprehensive Student Grade Management Application as part of my coursework, utilizing Excel 2016/Excel 2019. The project highlights my proficiency in modular programming, effective error handling, and the implementation of custom user forms.
-
 ## Key Objectives
 
 - **Data Import:** Efficiently imports data from a specified database, allowing users to flexibly choose files through a FileOpen Dialog.
